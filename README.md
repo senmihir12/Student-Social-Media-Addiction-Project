@@ -45,7 +45,7 @@ Provides a top-level overview of survey demographics and platform preferences.
 - **Drillthrough Button:** Navigates to detailed demographic analysis.
 
 📸 *Attach Screenshot*  
-`![Main Dashboard](social_media1.png)`
+![Dashboard Preview](social_media1.png)
 
 ---
 
@@ -63,9 +63,9 @@ In-depth behavioral metrics segmented by selected demographic attributes.
 - **Pie Chart:** Academic Performance Impact (% Yes/No)
 
 📸 *Attach Screenshot*  
-`![Drillthrough Dashboard](social_media2.png)`
+![Dashboard Preview](social_media2.png)
 
-`![Drillthrough Dashboard](social_media3.png)`
+![Dashboard Preview](social_media13.png)
 
 ---
 
@@ -77,7 +77,7 @@ Highlights country-level participation and engagement.
 - **Tooltip Navigation:** Opens a detailed view for each country on hover
 
 📸 *Attach Screenshot*  
-`![Global Map View](social_media4.png)`
+![Dashboard Preview](social_media4.png)
 
 ---
 
@@ -95,9 +95,9 @@ Provides contextual insights when hovering over any country.
 - Academic Performance Impact (% Yes/No)
 
 📸 *Attach Screenshot*  
-`![Tooltip Page](social_media5.png)`
+![Dashboard Preview](social_media5.png)
 
-`![Tooltip Page](social_media6.png)`
+![Dashboard Preview](social_media6.png)
 
 ---
 
