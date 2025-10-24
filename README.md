@@ -65,7 +65,7 @@ In-depth behavioral metrics segmented by selected demographic attributes.
 📸 *Attach Screenshot*  
 ![Dashboard Preview](social_media2.png)
 
-![Dashboard Preview](social_media13.png)
+![Dashboard Preview](social_media3.png)
 
 ---
 
